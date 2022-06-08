@@ -1,0 +1,26 @@
+[
+    {
+        "_Plant__kind": "a",
+        "_Plant__grow_time": 13,
+        "_Plant__temp_min": 10,
+        "_Plant__temp_max": 45
+    },
+    {
+        "_Plant__kind": "d",
+        "_Plant__grow_time": 111,
+        "_Plant__temp_min": 24,
+        "_Plant__temp_max": 34
+    },
+    {
+        "_Plant__kind": "b",
+        "_Plant__grow_time": 21,
+        "_Plant__temp_min": 45,
+        "_Plant__temp_max": 55
+    },
+    {
+        "_Plant__kind": "test",
+        "_Plant__grow_time": 40,
+        "_Plant__temp_min": 13,
+        "_Plant__temp_max": 50
+    }
+]
